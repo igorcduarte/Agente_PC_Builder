@@ -24,7 +24,7 @@ Ao iniciar o programa, o usuário fornece:
 &nbsp;
 * Necessidades: Descrição de como pretende usar o computador.
 &nbsp;
-* Orçamento: Valor máximo disponível para a montagem. **Deve escrito da seguinte forma: Ex. 4.000**
+* Orçamento: Valor máximo disponível para a montagem. **Deve ser escrito da seguinte forma: Ex. 4.000**
 &nbsp;
 
 O sistema então realiza as seguintes etapas:
@@ -57,3 +57,7 @@ O sistema então realiza as seguintes etapas:
 &nbsp;
 * Relatório Final: Revisão e sugestões extras para melhorar o setup.
 &nbsp;
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
