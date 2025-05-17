@@ -12,11 +12,11 @@ Este projeto implementa um sistema baseado em agentes de Inteligência Artificia
 
 **Agente Validador Técnico**: Verifica a compatibilidade e a adequação da build planejada.
 
-**Agente Revisor e Sugestões Extras**: Faz uma revisão técnica final e sugere melhorias opcionais.
-
 **Agente Otimizador de Preços**: Busca os melhores preços para os componentes em lojas confiáveis e apresenta o custo total.
 
 **Agente Simulador de Performance**: Simula o desempenho da configuração planejada em diferentes cenários (jogos, edição de vídeo, multitarefa, etc.).
+
+**Agente Revisor e Sugestões Extras**: Faz uma revisão técnica final e sugere melhorias opcionais.
 
 ## Execução do Sistema
 
