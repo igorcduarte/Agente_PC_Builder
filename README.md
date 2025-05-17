@@ -1,5 +1,5 @@
 # Assistente de Montagem de PCs com IA
-Este projeto implementa um sistema baseado em agentes de Inteligência Artificial para auxiliar na escolha e montagem de computadores personalizados, atendendo às necessidades e orçamento fornecidos pelo usuário. O sistema é composto por diversos agentes que trabalham de forma colaborativa, desde a coleta de requisitos até a simulação de desempenho
+Este projeto implementa um sistema baseado em agentes de Inteligência Artificial para auxiliar na escolha e montagem de computadores personalizados, atendendo às necessidades e orçamento fornecidos pelo usuário. O sistema é composto por sete agentes que trabalham de forma colaborativa, desde a coleta de requisitos até a simulação de desempenho
 
 
 ## Fluxo do Sistema
