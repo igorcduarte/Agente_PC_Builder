@@ -22,7 +22,7 @@ Este projeto implementa um sistema baseado em agentes de Inteligência Artificia
 
 Ao iniciar o programa, o usuário fornece:
 &nbsp;
-* Necessidades: Descrição de como pretende usar o computador.
+* Necessidades: Descrição de como pretende usar o computador. Ex: jogos, edição de vídeo, trabalho, etc.
 &nbsp;
 * Orçamento: Valor máximo disponível para a montagem. **Deve ser escrito da seguinte forma: Ex. 4.000**
 &nbsp;
